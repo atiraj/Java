@@ -1,0 +1,2 @@
+-Dtangosol.coherence.cacheconfig="C:\Users\u393827\workspace\CoherenceSample\ComplexPofSerialization\Resources\contacts-cache-config.xml"
+-Dtangosol.pof.config="C:\Users\u393827\workspace\CoherenceSample\ComplexPofSerialization\Resources\contacts-pof-config.xml"
